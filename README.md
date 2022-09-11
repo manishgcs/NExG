@@ -24,6 +24,8 @@ pip3 install shapely
 pip3 install scikit-learn
 pip3 install --upgrade traitlets
 pip3 install cuda-python
+pip3 install rtree
+pip3 install plotly
 ```
 
 Once done with the installation, deactivate the virtual environment 'deactivate'.
